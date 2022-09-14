@@ -1,3 +1,3 @@
 # TO DO
- A to-do app/ Javascript
+ A to-do app/ 
  Javascript is used
